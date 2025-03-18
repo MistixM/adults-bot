@@ -1,0 +1,4 @@
+aiogram
+firebase_admin
+google_api_python_client
+protobuf
